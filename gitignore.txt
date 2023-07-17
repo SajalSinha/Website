@@ -27,3 +27,6 @@ yarn-error.log*
 
 Server/node_modules
 Server/config.js
+
+node_modules/.cache/default-development/5.pack
+node_modules/.cache/default-development/18.pack
